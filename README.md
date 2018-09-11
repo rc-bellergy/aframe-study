@@ -1,11 +1,6 @@
 # What is it?
 
-Useing gulp 4 auto build bootstrap 4 starter template.
-Included:
-- bootsrtap 4.1.3
-- fortawesome 5.3.1
-- jquery 3.3.1
-
+My A-Frame study project.
 Created by michael@designquest.com.hk
 
 ## Install
