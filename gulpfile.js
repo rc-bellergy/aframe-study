@@ -28,16 +28,12 @@ var vendorJs = [
 // Add my project js below
 var appJs = [
     'src/js/signature.js',
-    'src/js/config.js',
     'src/js/ui.js'
 ];
 
 function getTaskName(self) {
     return self.process.title.split(' ')[1];
 }
-
-
-
 
 // Copy assets
 gulp.task('copy', function (done) {
